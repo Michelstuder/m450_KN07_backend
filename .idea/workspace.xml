@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eab3f444-fed0-4d17-b24b-20fda6acbd87" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/M450_KN07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/061d016c-710b-406a-878e-f1934658bca3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/09814731-aed6-49c3-b7ab-dd9532433abe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/09b7661d-526a-48ea-9439-e68d43e4a89d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/0a41a59f-99fd-48d9-87a4-f92a564fe276-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/0b2ede7a-6e64-455d-b7d6-b249fa852a9d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/0c46419c-1b64-41e7-9758-dd8e34d55f6e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/10896a9a-baa8-4b77-a9d7-f3839294b5ba-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/10ffe253-76a0-4ec6-943d-65cd103f10d7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/135d7d58-555c-44a2-83f5-4d4789005d38-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/13f4b76a-4f2c-4e70-8951-22457f30ce30-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/1c7744a3-c64e-488e-b8d4-05ba2f631810-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/292659af-2fe3-4a3e-93d0-d9ba1397f631-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/2cbc5723-d50e-43a4-9a74-b8a6be05c36d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/2e2d8c0b-be94-450c-81b3-e373e2b9ba7f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/2f026bc8-0a0a-4a79-ba7b-8dbc095df00a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/2f0c18fa-457c-422f-922b-4f504a82d281-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/2fb2b424-8aea-4711-9c4e-49f3db3806fc-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/31623a96-5579-4d67-89c4-83ad6a22cc62-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/31fe4031-3071-4eca-b515-a10965438f03-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/33a4ce72-ae3d-45a5-a1d5-834e6d57bdaf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/36a93c72-b1c9-48c3-b495-82f27384a6f7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/38942438-f103-42a4-bf28-53f447c8635b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/3a5a451a-8573-4fac-90ea-67a102445e26-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/3e891c3b-5ab4-4133-b0cb-f177180a585f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/42490149-9d95-4f68-9d6c-f940f805eae9-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/42602cd2-b3cc-4dc6-9554-9c5ba945d5e0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/443f1db3-af5e-4321-8f10-bec59bdd8c4f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/454b581c-453a-4739-b77f-98135eaeb390-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/45ddd447-a613-476a-8a3c-942373831ad7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/4619862e-0ace-44ff-b4b0-9c7fad504a15-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/47d6be17-6757-452e-b648-e4e5e3694ff8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/4a422058-db00-460f-a243-511dbc0d4866-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/4c43a5f7-ae49-4566-a4c1-c2175d72c38a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/4c5dc162-a79d-454a-bbe9-cf9efa1b51c7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/507be3c1-dbc4-45a3-97c9-ce04c92e03b1-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/51436dc2-52c1-432e-aef8-d5f90f7ebdf0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/55ff03cc-3abe-4d3f-a7ac-0b96e48666c8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/5718ca3a-c4a4-4033-8487-586355c5c332-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/58179c24-b2fe-4e31-ac15-73769b77427c-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/59c83122-0e93-41ba-8d83-61748a7677c5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/59db9e14-b486-48fd-93a3-f8624be56a57-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/5c3548a8-292d-4133-a1bc-abd8a1f2201f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/5d75a134-bbb1-4fd4-b88c-230fc3dbc3c1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/5e73e69d-5573-4592-9626-6df45a934b2c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/6021b138-7a60-4954-98be-16ff7a6407f8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/64edb35f-1bcc-45d5-a755-bffe2f7a30e4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/66172e51-9db4-41cc-8801-b84bf717d133-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/66826ce8-30e0-460a-afe8-548ed835eacd-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/6bb21d38-469f-4c78-b5fa-be2dbf296f72-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/6e4c209f-bf61-46c1-a418-9055087a597d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/6ea54c09-bef1-40f6-a051-daeaebfa9f16-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/70392e9f-f0ce-44e2-9234-328bc2d030e8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/7142a987-92ca-4943-9474-1849a08cc12d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/7286e4a0-48df-45f7-9a50-b151d378d79b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/73c7b2ff-893d-439b-b233-b8201ba43e36-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/757c75ec-7927-47ef-9eaa-74e985c1055a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/76412034-089d-4387-a651-bbc05c2319aa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/76668359-1777-4b28-8bf8-12160c2e0a3a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/768b4fd8-2240-4387-98d3-302d2a2b6f14-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/776d463e-3d20-4d16-b9ca-6936e23b6969-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/78f9092c-717b-41d0-8b97-4ed1a4a72617-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/791d88df-4a03-41b1-825d-388563e5efd7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/7ee75943-1cfa-4387-9cf5-82fd451a373e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/7f847bfd-cdcf-4fde-b66b-f4c65e931b46-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/83566296-ace9-4a14-8b9c-d2c706daf2e7-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/85dfef63-e826-4286-b19e-692b0bae6cca-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/89597f41-0711-4a95-89ba-b1faf84d2f2e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/8d3ccc8b-d32a-4c04-a6f4-1e29c50eec16-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/906b683c-ffde-4450-ad7b-f4a25ae9128f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/936b82e0-80d3-489d-8144-7123567d99e6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/93f60570-21dc-4dbe-b2eb-43bab15e2c49-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/94d31702-5ef1-4d88-8526-14b4573f20cb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/967667e4-400b-4911-ba10-cf1fe877108b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/967b5d95-e838-4e9c-88d0-cd085277d11e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/9af6c1a9-85ee-4560-94b7-4820f5f99122-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/9d1de705-ef70-45dd-b4bb-e8cc5a7037ab-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/9d86d3ab-214c-4ab6-87b5-f4171f573767-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/a0cd89bf-6554-44c7-b4a8-080133aa4415-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/a2ffc9b8-e260-47c6-8630-8a0711e8d892-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/a466fd72-6020-4664-81b3-02f644479a20-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/a79b6da2-aa18-4c13-87a2-693733c2c27b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/a7c8bdee-28ea-4234-9b43-5fe0db9c4973-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/a8ec47a1-14b6-4cb5-9071-98c69208b431-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/aec03592-3e75-4f0e-9562-38f0dc5c49fa-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/b619f238-a4bf-4f78-a0d8-538adf5092a8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/b68a7258-46bd-4bae-90c9-724d0b819f14-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/b6cbc6e0-13e8-4b8b-9f46-9a1780a2986f-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/b71fd518-61c8-45b2-9cbb-7f0c8289a626-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/b9c00be1-e568-4d60-88e7-0996ab4c51a8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/ba02938b-c7a9-499a-9c8e-9e681da8a081-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/ba05c96b-49fc-45f6-8c01-3cf9f6f3b2de-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/bdfe73e7-c6e7-4f8d-9304-2822c52f4bdb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/bf9fbf74-7d18-4d73-817e-be31b88b12cb-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/c01503a3-493a-4277-95a2-4f2aac6b3eed-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/c109fce9-a9d4-47f5-b44e-c90967f1c5b5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/c2649566-4f08-415d-8f3d-d4a554889685-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/c3d5c998-16d1-4383-b6d3-42d5dca7ad87-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/c4c492b0-6157-445e-9545-154d09303ae3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/c4e460b0-2f61-49ac-b0eb-0fe361295870-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/c8407e4e-5714-4bcb-b112-9495ed86d790-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/caf5f09e-89b3-4598-ae8c-de60bb5865b3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/cf8e3729-c752-44fc-89e0-6a0b51896256-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/d47773a6-9e94-4ed2-9cee-e1c1ac9b491a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/d4c85afd-04c3-42bf-88f8-760094e8d799-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/d75b2ae0-81a7-4d3e-b5b2-ba4796129300-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/dc508d57-0ff9-4f28-aff8-1e503cf1d77c-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/dc7a69ad-7afb-4387-91a3-4a1c552b81a6-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/dc812884-8501-43fe-841d-2450a417ea7d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/de106f42-4395-4cc3-bf4d-8c6ebf78bc5e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/de12bddf-1b1b-4a06-bc56-e2bb680c345d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/e1817f09-7579-4f91-92d8-b7879af2c3bc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/e30afeb7-0422-4d0f-9722-1cf4f87d80c6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/e62b6a4c-ff84-49f5-a979-2c3030fe258d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/e7de856a-48e3-445e-a5d0-26b2415fb15d-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/e7f847b9-caa1-4b88-a89a-7933de4e508e-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/ec97c6d3-5b60-44a4-b8d6-f6b3223be2a5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/ede43d17-0d4e-4340-b4ce-556f888687c5-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/ede73446-3ae9-4ac1-a368-441de0e97899-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/ef0199d6-e1aa-4ad3-a584-ffb8e47c2e1a-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/ef6d1f32-9ced-4ebc-b7cb-3662c184987b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/f0e668a4-1e47-42f0-be1b-ac59f8856879-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/f1ef2e09-36ea-4b2f-a884-b7be416ac910-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/f2852707-7a4c-4198-bcbd-20deba1498ee-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/f44be107-caba-43b5-8b5e-ebc7a899db01-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/f60bc0d6-b724-48d8-b04a-2a64e00a8806-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/f756ef68-d69b-4064-a5f5-af7d1d848e11-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/f75f5d92-5b14-446a-8d6c-094aa6a0dbca-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/fc59dcad-5713-406e-aa94-c3e57728c1d7-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/fd5fa8a6-0c8e-4654-adad-b6213673a027-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/fdb78049-7835-45ef-9615-bb7c07e401cf-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/allure-results/ff49cbab-7f73-4417-9306-707ba3bbdb08-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/RecipePlannerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/controller/RecipeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/domain/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/domain/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/domain/Unit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/entities/IngredientEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/entities/RecipeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/mapper/CommonMapperConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/mapper/IngredientEntityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/mapper/RecipeEntityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/repository/RecipeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/java/ch/tbz/recipe/planner/service/RecipeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/test/java/ch/tbz/recipe/planner/controller/RecipeControllerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/test/java/ch/tbz/recipe/planner/mapper/IngredientEntityMapperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe-planner-backend/src/test/java/ch/tbz/recipe/planner/mapper/RecipeEntityMapperTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-planner-fronend/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-planner-fronend/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-planner-fronend/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-planner-fronend/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-planner-fronend/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/recipe-planner-fronend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/recipe-planner-fronend/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2be4NDgM4pqPr8u3eC7qgoBkVcF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/TBZ/m450/m450_KN07",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eab3f444-fed0-4d17-b24b-20fda6acbd87" name="Changes" comment="" />
+      <created>1706562168318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706562168318</updated>
+      <workItem from="1706562169579" duration="1596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="javascript:npm:react" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.persistence:jakarta.persistence-api" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.data:spring-data-commons" />
+    <option featureType="dependencySupport" implementationName="java:io.qameta.allure:allure-java-commons" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+    <option featureType="dependencySupport" implementationName="java:org.projectlombok:lombok" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
